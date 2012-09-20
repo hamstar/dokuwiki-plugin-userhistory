@@ -1,4 +1,6 @@
 dokuwiki-plugin-userhistory
 ===========================
 
-Displays all changes done by selected user
+The User History Plugin displays all changes done by specified user, in chronological (reversed) order. 
+
+For more information see https://www.dokuwiki.org/plugin:userhistory
