@@ -20,7 +20,7 @@ class admin_plugin_userhistory extends DokuWiki_Admin_Plugin {
     function getInfo(){
       return array(
         'author' => 'Ondra Zara',
-        'email'  => 'o.z.fw@seznam.cz',
+        'email'  => 'ondras@zarovi.cz',
         'date'   => '2007-01-16',
         'name'   => 'User History',
         'desc'   => 'View page changelog per user',
